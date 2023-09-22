@@ -1,0 +1,10 @@
+D:\PRAKTIKUM PEMROGRAMAN LANJUT\Pertemuan3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.exe.config
+D:\PRAKTIKUM PEMROGRAMAN LANJUT\Pertemuan3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.exe
+D:\PRAKTIKUM PEMROGRAMAN LANJUT\Pertemuan3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.pdb
+D:\PRAKTIKUM PEMROGRAMAN LANJUT\Pertemuan3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.csproj.AssemblyReference.cache
+D:\PRAKTIKUM PEMROGRAMAN LANJUT\Pertemuan3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.frmLatihanTiga3.resources
+D:\PRAKTIKUM PEMROGRAMAN LANJUT\Pertemuan3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.Properties.Resources.resources
+D:\PRAKTIKUM PEMROGRAMAN LANJUT\Pertemuan3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.csproj.GenerateResource.cache
+D:\PRAKTIKUM PEMROGRAMAN LANJUT\Pertemuan3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.csproj.CoreCompileInputs.cache
+D:\PRAKTIKUM PEMROGRAMAN LANJUT\Pertemuan3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.exe
+D:\PRAKTIKUM PEMROGRAMAN LANJUT\Pertemuan3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.pdb
